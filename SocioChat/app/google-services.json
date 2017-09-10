@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "48656895185",
+    "firebase_url": "https://socio-chat.firebaseio.com",
+    "project_id": "socio-chat",
+    "storage_bucket": "socio-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48656895185:android:f8b94c30738f9d02",
+        "android_client_info": {
+          "package_name": "com.example.deepakprasad.sociochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48656895185-n9fcubfnks3j21ji4n1mdnr1usl9jd4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvsAegV0Qzbs9aKrBgW3zy1Vt0ohptN7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
